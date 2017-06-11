@@ -1,4 +1,4 @@
-const filter = require('./modules/filter')
+const filter = require('./modules/filter'),
       name = process.argv[2],
       ext = process.argv[3]; 
 
